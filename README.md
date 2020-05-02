@@ -14,6 +14,7 @@
        <li><strong><a href="5.html">الفلسفة</a></strong></li><br>
        <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
      </ul><br><hr>
+    <font size="7" color="red">آيشيتيروا</font>
       <iframe src="video.mp4"></iframe>
      </body>
 </html>
