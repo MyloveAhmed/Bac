@@ -15,7 +15,8 @@
        <li><strong><a href="5.html">الفلسفة</a></strong></li><br>
        <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
      </ul><br><hr>
+    <font size="7" color="red">آيشيتروا</font>
       <iframe src="video.mp4"></iframe>
-      <a href="contact-me.html"><h3 style="color:black;:>Contact Me</h3></a>
+      <a href="contact-me.html"><font color="black">Contact Me</font></a>
      </body>
 </html>
