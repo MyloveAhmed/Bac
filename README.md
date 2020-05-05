@@ -16,6 +16,6 @@
        <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
      </ul><br><hr>
       <iframe src="video.mp4"></iframe>
-      <a href="contact-me.html"><h3 bgcolor="black">Contact Me</h3></a>
+      <a href="contact-me.html"><h3 style="color:black;:>Contact Me</h3></a>
      </body>
 </html>
