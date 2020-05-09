@@ -3,20 +3,22 @@
  <head>
   <meta charset="utf-8">
   <title>Bac</title>
-  <link rel="stylesheet" href="css2/master.css">
+  <link rel="stylesheet" href="master0.css">
+  <link rel="icon" href="favicon0.ico">
+
    </head>
    <body>
-     <center><font size="7" color=""><em>In The Name Of Allah The Compassionate The Most Merciful</em></font></center>
+     <center><font size="7" color="red"><em>In The Name Of Allah The Compassionate The Most Merciful</em></font></center>
      <ul><br><br><br><br>
        <li><strong><a href="1.html">الفيزياء و الكيمياء</a></strong></li><br>
        <li><strong><a href="2.html">الرياضيات</a></strong></li><br>
        <li><strong><a href="3.html">الإنجليزية</a></strong></li><br>
        <li><strong><a href="4.html">علوم الحياة و الأرض</a></strong></li><br>
-       <li><strong><a href="5.html">الفلسفة</a></strong></li><br>
-       <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
-     </ul><br><hr>
-    <font size="7" color="red">آيشيتروا</font><br>
-      <iframe src="video.mp4"></iframe><br>
-      <a href="contact-me.html"><font color="black">Contact Me</font></a>
+       <li><strong><a href="5.html">الفلسفة</a></strong></li><hr class="hr"><br>
+       <li><font size="4"><a href="6.html">ما بعد البكالوريا</a></font></li>
+ </ul><br><hr class="hr"><br><font size="5" color="red">دايسكي</font><br>
+      <iframe src="video.mp4"></iframe>
+      <a href="contact-me.html"><h3>Contact Me</h3></a>
      </body>
 </html>
+
