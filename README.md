@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <title>Bac</title>
   <link rel="stylesheet" href="master0.css">
-  <link rel="icon" href="favicon0.ico">
+  <link rel="shortcut icon" href="favicon0.ico">
 
    </head>
    <body>
