@@ -16,8 +16,8 @@
        <li><strong><a href="4.html">علوم الحياة و الأرض</a></strong></li><br>
        <li><strong><a href="5.html">الفلسفة</a></strong></li><hr class="hr"><br>
        <li><font size="4"><a href="6.html">ما بعد البكالوريا</a></font></li>
- </ul><br><hr class="hr"><br><font size="5" color="red">دايسكي</font><br>
-      <iframe src="video.mp4"></iframe>
+ </ul><br><hr class="hr"><br><font size="5" color="red">دايسكي</font><br><br>
+      <video src="vide.mp4" controls width="300" imposter="dear.jpg"></video>
       <a href="contact-me.html"><h3>Contact Me</h3></a>
      </body>
 </html>
