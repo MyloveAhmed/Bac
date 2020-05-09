@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="eng" dir="rtl">
  <head>
   <meta charset="utf-8">
