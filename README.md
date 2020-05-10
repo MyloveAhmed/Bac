@@ -11,10 +11,10 @@
      <center<strong>In The Name Of Allah The Compassionate The Most Merciful</strong></center><br><br><br><br><hr>
   <h3>ملفات اليوم</h3><br>
   <ul>
-  <li><strong><a href="pdf-day.zip">ملفات</a>
+ <li><strong><a href="pdf-day.zip">ملفات</a>
   <li><a href="pho-day.zip">صور</a>
   <li><a href="bac-day.zip">ملفات باك</a>
-  <li><a href="bac-pho-day.zip">صور باك</a></strong>
+  <li><a href="bac-pho-day.zip">صور باك</a></li></strong>
   </ul>
   <hr>
     <ul>
