@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en" dir="rtl">
  <head>
-  <meta charset="utf-8" name="description" content="باك,باك المغرب,ثاني باكلوريا,باكلوريا,my love Amal">
+  <meta charset="utf-8" name="description" content="Science is my with7You">
   <title>Bac</title>
   <link rel="stylesheet" href="master0.css">
   <link rel="icon" href="favicon0.ico">
