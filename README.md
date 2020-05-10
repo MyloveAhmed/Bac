@@ -8,7 +8,15 @@
 
  </head>
  <body>
-     <center><font size="7" color="red">In The Name Of Allah The Compassionate The Most Merciful</font></center><br><br><br><br>
+     <center><font size="7" color="red">In The Name Of Allah The Compassionate The Most Merciful</font></center><br><br><br><br><hr>
+<h3>ملفات اليوم</h3><br>
+<ul>
+  <li><strong><a href="pdf-day.zip">ملفات</a>
+  <li><a href="pho-day.zip">صور</a>
+  <li><a href="bac-day.zip">ملفات باك</a>
+  <li><a href="bac-pho-day.zip">صور باك</a></strong>
+</ul>
+<hr>
     <ul>
       <li><strong><a href="1.html">الفيزياء و الكيمياء</a></strong></li><br>
       <li><strong><a href="2.html">الرياضيات</a></strong></li><br>
