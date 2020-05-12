@@ -1,6 +1,7 @@
 body{
   background-color:#162447;}
-  font{width:90%;}
+  font{width:90%;
+    font-size:90%;}
     hr {
       border-style: dotted none none;
     width: 5%;
