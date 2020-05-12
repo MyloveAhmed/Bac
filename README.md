@@ -8,7 +8,7 @@
 
   </head>
   <body>
-     <center><font size="7">In The Name Of Allah The Compassionate The Most Merciful</font></center><br><br><br><br><hr>
+     <center><font size="7" color="red">In The Name Of Allah The Compassionate The Most Merciful</font></center><br><br><br><br><hr>
      <ul>
        <li><strong><a href="1.html">الفيزياء و الكيمياء</a></strong></li><br>
        <li><strong><a href="2.html">الرياضيات</a></strong></li><br>
