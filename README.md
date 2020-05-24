@@ -19,7 +19,7 @@
        <hr class="hr"><br>
        <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
     </ul><br><hr class="hr"><br><font>آيشتيروا</font><br>
-      <iframe src="vide.mp4"></iframe>
+      <viedo controles src="vide.mp4" width="400px"></video>
       <a href="contact-me.html"><h3>Contact Me</h3></a>
   </body>
 </html>
