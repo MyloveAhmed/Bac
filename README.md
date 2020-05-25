@@ -12,8 +12,7 @@
      <ul>
        <li><strong><a href="1.html">الفيزياء و الكيمياء</a></strong></li><br>
        <li><strong><a href="2.html">الرياضيات</a></strong></li><br>
-       <li><srong><a href="3.html">الإنجليزية</a></strong>
-      </li><br>
+       <li><srong><a href="3.html">الإنجليزية</a></strong><br>
        <li><strong><a href="4.html">علوم الحياة و الأرض</a></strong></li><br>
        <li><strong><a href="5.html">الفلسفة</a></strong></li><br>
        <li><a href="for-bac"><strong>For Bac</strong></a></li><br>
