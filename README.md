@@ -16,6 +16,7 @@
        <li><strong><a href="4.html">علوم الحياة و الأرض</a></strong></li><br>
        <li><strong><a href="5.html">الفلسفة</a></strong></li><br>
        <li><a href="for-bac"><strong>For Bac</strong></a></li><br>
+        <li><a href="portant-url.html"><strong>روابط مهمة</strong><li><br>
        <hr class="hr"><br>
        <li><strong><a href="6.html">ما بعد البكالوريا</a></strong></li>
     </ul><br><hr class="hr"><br><font>آيشتيروا</font><br>
